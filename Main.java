@@ -1,7 +1,7 @@
 /**
 * @author Nigar SELEK
 * */
-public class Main {
+public class recursive {
 
     public static void main(String[] args) {
 
